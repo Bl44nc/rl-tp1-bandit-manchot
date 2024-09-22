@@ -17,7 +17,7 @@ Ce dépôt contient le code source et les résultats associés au premier travai
 Les dépendances nécessaires pour exécuter le notebook sont listées dans la première cellule de code. Vous pouvez les installer en exécutant la cellule ou en exécutant la commande suivante dans votre terminal :
 
 ```bash
-pip install matplotlib tqdm numpy ipympl opencv-python
+pip install matplotlib tqdm numpy ipympl opencv-python seaborn torch
 ```
 
 #### 2. Exécution du notebook
